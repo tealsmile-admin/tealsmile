@@ -1,0 +1,4 @@
+# Protect sensitive API config files
+<FilesMatch "^(config|db|setup_leads_table)\.php$">
+  Require all denied
+</FilesMatch>

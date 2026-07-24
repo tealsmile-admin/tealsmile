@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" role="img" aria-label="TEALSMILE TECHNOLOGIES">
+  <defs>
+    <linearGradient id="lg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00897B"/>
+      <stop offset="100%" stop-color="#26A69A"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="6" width="36" height="36" rx="9" fill="url(#lg)"/>
+  <path d="M10 28c4-8 12-12 16-6 2 3 1 7-2 9" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="26" cy="18" r="2.2" fill="#fff"/>
+  <text x="46" y="22" font-family="Poppins, Segoe UI, sans-serif" font-size="15" font-weight="700" fill="#00897B" letter-spacing="0.5">TEALSMILE</text>
+  <text x="46" y="38" font-family="Poppins, Segoe UI, sans-serif" font-size="9" font-weight="500" fill="#5A6A6A" letter-spacing="1.8">TECHNOLOGIES</text>
+</svg>
