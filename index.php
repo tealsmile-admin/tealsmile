@@ -7,7 +7,7 @@ $siteName    = 'TEALSMILE TECHNOLOGIES';
 $tagline     = 'Innovation • Automation • Digital Solutions';
 $siteUrl     = 'https://tealsmile.com/';
 $pageTitle   = 'Digital Marketing Agency in Mumbai | Google Ads, SEO & Software | TEALSMILE';
-$metaDesc    = 'TEALSMILE TECHNOLOGIES is a digital marketing agency in Mumbai offering Google Ads, Meta Ads, SEO, Local SEO, Google Business Profile optimization, website development and business automation across Mumbai, Navi Mumbai, Thane & Palghar.';
+$metaDesc    = 'TEALSMILE TECHNOLOGIES is a digital marketing agency in Mumbai offering Google Ads, Meta Ads, SEO, Local SEO, Google Business Profile optimization, website development and business automation for clients in Mumbai, Navi Mumbai, Thane, Palghar and all over the world.';
 $phone       = '9920777048';
 $phoneLink   = 'tel:+919920777048';
 $whatsapp    = 'https://wa.me/919920777048';
@@ -110,7 +110,8 @@ $year        = date('Y');
           { "@type": "City", "name": "Navi Mumbai" },
           { "@type": "City", "name": "Thane" },
           { "@type": "City", "name": "Palghar" },
-          { "@type": "State", "name": "Maharashtra" }
+          { "@type": "State", "name": "Maharashtra" },
+          { "@type": "Country", "name": "Worldwide" }
         ],
         "openingHoursSpecification": {
           "@type": "OpeningHoursSpecification",
@@ -125,7 +126,7 @@ $year        = date('Y');
         "name": "TEALSMILE TECHNOLOGIES",
         "description": "Digital marketing agency in Mumbai offering Google Ads, Meta Ads, SEO, Local SEO, website development and business automation.",
         "provider": { "@id": "<?= $siteUrl ?>#organization" },
-        "areaServed": "Mumbai, Navi Mumbai, Thane, Palghar, Maharashtra",
+        "areaServed": "Mumbai, Navi Mumbai, Thane, Palghar, Maharashtra and Worldwide",
         "serviceType": [
           "Digital Marketing",
           "Google Ads Management",
@@ -163,7 +164,7 @@ $year        = date('Y');
             "name": "What is the best digital marketing agency in Mumbai?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "The best digital marketing agency in Mumbai combines proven Google Ads expertise, SEO and Local SEO capability, transparent reporting and measurable lead generation. TEALSMILE TECHNOLOGIES partners with businesses across Mumbai, Navi Mumbai, Thane and Palghar to deliver performance marketing and technology solutions that grow revenue."
+              "text": "The best digital marketing agency in Mumbai combines proven Google Ads expertise, SEO and Local SEO capability, transparent reporting and measurable lead generation. TEALSMILE TECHNOLOGIES partners with businesses in Mumbai and all over the world to deliver performance marketing and technology solutions that grow revenue."
             }
           },
           {
@@ -171,7 +172,7 @@ $year        = date('Y');
             "name": "How much do Google Ads services cost in Mumbai?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Google Ads management fees typically depend on campaign complexity, monthly ad spend and goals. TEALSMILE offers flexible Google Ads packages for startups and enterprises in Mumbai, with clear media budgets and performance-focused management."
+              "text": "Google Ads management fees typically depend on campaign complexity, monthly ad spend and goals. TEALSMILE offers flexible Google Ads packages for startups and enterprises in Mumbai and globally, with clear media budgets and performance-focused management."
             }
           },
           {
@@ -179,7 +180,7 @@ $year        = date('Y');
             "name": "How can Local SEO help my business get more calls?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Local SEO improves how you appear in Google Maps and local search results, helping nearby customers find and call you. Optimizing your Google Business Profile, citations and location pages increases mobile calls and customer enquiries from Mumbai and surrounding areas."
+              "text": "Local SEO improves how you appear in Google Maps and local search results, helping nearby customers find and call you. Optimizing your Google Business Profile, citations and location pages increases mobile calls and customer enquiries from Mumbai and surrounding areas—and wherever your business operates."
             }
           },
           {
@@ -203,7 +204,7 @@ $year        = date('Y');
             "name": "What industries does TEALSMILE TECHNOLOGIES work with?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We serve resorts, hotels, clinics, hospitals, colleges, educational institutes, spa & wellness, healthcare, retail, professional services, SMEs and enterprises across Maharashtra."
+              "text": "We serve resorts, hotels, clinics, hospitals, colleges, educational institutes, spa & wellness, healthcare, retail, professional services, SMEs and enterprises all over the world."
             }
           },
           {
@@ -211,7 +212,7 @@ $year        = date('Y');
             "name": "Do you offer Meta Ads and Facebook Ads management?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. We provide Meta Ads management including Facebook Ads and Instagram Ads for lead generation, brand awareness and performance marketing campaigns across Mumbai and Maharashtra."
+              "text": "Yes. We provide Meta Ads management including Facebook Ads and Instagram Ads for lead generation, brand awareness and performance marketing campaigns for clients in Mumbai and globally."
             }
           },
           {
@@ -235,7 +236,7 @@ $year        = date('Y');
             "name": "Is TEALSMILE a website development company in Mumbai?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. We are a website development and website design company serving Mumbai, Navi Mumbai, Thane and Palghar, delivering responsive websites, landing pages and PHP-based business sites."
+              "text": "Yes. We are a website development and website design company based in Mumbai, delivering responsive websites, landing pages and PHP-based business sites for clients all over the world."
             }
           },
           {
@@ -251,7 +252,7 @@ $year        = date('Y');
             "name": "Do you help with business automation and marketing automation?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes. As a business automation and marketing automation company, we connect CRMs, APIs and workflows so leads, follow-ups and reporting run smoothly with less manual work."
+              "text": "Yes. As a business automation and marketing automation company, we connect CRMs, APIs and workflows so leads, follow-ups and reporting run smoothly with less manual work for businesses worldwide."
             }
           }
         ]
@@ -306,7 +307,7 @@ $year        = date('Y');
               Digital Marketing, Google Ads &amp; Software Solutions That Drive Business Growth
             </h1>
             <p class="hero-sub">
-              Your trusted digital marketing &amp; technology partner in Mumbai. We help businesses grow through Digital Marketing, Google Ads, Meta Ads, Local SEO, Website Development, Business Automation and Custom Software Solutions across Mumbai, Navi Mumbai, Thane and Palghar.
+              Your trusted digital marketing &amp; technology partner in Mumbai. We help businesses grow worldwide through Digital Marketing, Google Ads, Meta Ads, Local SEO, Website Development, Business Automation and Custom Software Solutions—serving clients across Mumbai, Navi Mumbai, Thane, Palghar and all over the world.
             </p>
             <div class="hero-actions">
               <a href="#contact" class="btn btn-primary btn-lg">Get Free Consultation</a>
@@ -342,12 +343,12 @@ $year        = date('Y');
           </div>
           <div class="col-lg-7 fade-up" data-delay="100">
             <span class="section-label">Who We Are</span>
-            <h2 id="about-heading">A Technology-Driven Partner for Growth in Maharashtra</h2>
+            <h2 id="about-heading">A Technology-Driven Partner for Growth Worldwide</h2>
             <p>
               TEALSMILE TECHNOLOGIES is a technology-driven company helping businesses accelerate growth through digital marketing, software development, automation and innovative technology solutions. Our expertise spans Google Ads, Meta Ads, SEO, Local SEO, website development, business automation and custom software solutions that improve efficiency and maximize ROI.
             </p>
             <p>
-              As a digital marketing agency in Mumbai and a software development company serving Palghar, Thane and Navi Mumbai, we combine performance marketing with practical engineering—so campaigns, websites and systems work together to generate more customer enquiries.
+              As a digital marketing agency in Mumbai and a software development company with a global outlook, we combine performance marketing with practical engineering—so campaigns, websites and systems work together to generate more customer enquiries for clients all over the world.
             </p>
             <div class="row g-4 mt-2 mv-grid">
               <div class="col-md-6">
@@ -391,7 +392,7 @@ $year        = date('Y');
             ['fa-brands fa-google', 'Google Ads Management', 'Campaign strategy, keyword research and conversion tracking from a Google Ads expert in Mumbai focused on qualified leads—not vanity clicks.'],
             ['fa-brands fa-meta', 'Meta Ads Management', 'Facebook Ads and Instagram Ads campaigns engineered by Meta Ads experts for awareness, retargeting and high-intent lead generation.'],
             ['fa-solid fa-magnifying-glass', 'SEO Services', 'Technical SEO, on-page optimization and content strategy from an SEO company in Mumbai that builds lasting organic visibility.'],
-            ['fa-solid fa-map-location-dot', 'Local SEO', 'Local SEO services that help you rank higher in local search across Mumbai, Navi Mumbai, Thane and Palghar with citation and location strategy.'],
+            ['fa-solid fa-map-location-dot', 'Local SEO', 'Local SEO services that help you rank higher in local search across Mumbai, Navi Mumbai, Thane, Palghar and any city worldwide with citation and location strategy.'],
             ['fa-solid fa-store', 'Google Business Profile Optimization', 'Google Business Profile optimization and management to improve listing quality, posts, categories and conversion actions.'],
             ['fa-solid fa-map', 'Google Maps Ranking', 'Appear in Google Maps and improve Google Maps ranking so nearby customers discover you first and call your business.'],
             ['fa-solid fa-laptop-code', 'Website Development', 'Responsive website development in Mumbai—fast, secure PHP sites built for Core Web Vitals, SEO and conversions.'],
@@ -431,7 +432,7 @@ $year        = date('Y');
             <span class="section-label">Local SEO &amp; Google Business Profile</span>
             <h2 id="local-seo-heading">Get More Calls from Google Maps &amp; Local Search</h2>
             <p>
-              If customers search on mobile, your Google Business Profile is often the first door to your business. We help you increase mobile calls from your Google Business Profile, generate more customer enquiries and appear in Google Maps across Mumbai, Navi Mumbai, Thane, Palghar and Maharashtra.
+              If customers search on mobile, your Google Business Profile is often the first door to your business. We help you increase mobile calls from your Google Business Profile, generate more customer enquiries and appear in Google Maps—whether you serve customers in Mumbai, Navi Mumbai, Thane, Palghar or anywhere in the world.
             </p>
             <ul class="check-list">
               <li>Google Business Profile Ranking &amp; Optimization</li>
@@ -488,7 +489,7 @@ $year        = date('Y');
         <div class="section-header text-center fade-up">
           <span class="section-label">Industries We Serve</span>
           <h2 id="industries-heading">Built for Businesses That Need Digital Growth</h2>
-          <p class="section-lead">We partner with organizations across hospitality, healthcare, education, retail and professional services throughout Maharashtra.</p>
+          <p class="section-lead">We partner with organizations across hospitality, healthcare, education, retail and professional services all over the world.</p>
         </div>
         <div class="row g-3 industries-grid fade-up">
           <?php
@@ -641,20 +642,20 @@ $year        = date('Y');
             <div class="accordion faq-accordion fade-up" id="faqAccordion">
               <?php
               $faqs = [
-                ['What is the best digital marketing agency in Mumbai?', 'The best partner delivers measurable leads through Google Ads, Meta Ads, SEO and Local SEO—with transparent reporting. TEALSMILE TECHNOLOGIES combines performance marketing with software and automation so your funnel stays connected from click to conversion across Mumbai and Maharashtra.'],
-                ['How much do Google Ads services cost?', 'Costs depend on ad spend, competitiveness of keywords and campaign scope. As a Google Ads agency in Mumbai, we recommend a clear media budget plus management—so every campaign has room to learn and scale profitably.'],
-                ['How can Local SEO help my business?', 'Local SEO improves visibility in Google Maps and the local pack, helping nearby customers find you. It increases calls, direction requests and walk-ins—especially for clinics, hotels, retail and professional services.'],
+                ['What is the best digital marketing agency in Mumbai?', 'The best partner delivers measurable leads through Google Ads, Meta Ads, SEO and Local SEO—with transparent reporting. TEALSMILE TECHNOLOGIES combines performance marketing with software and automation so your funnel stays connected from click to conversion for clients in Mumbai and all over the world.'],
+                ['How much do Google Ads services cost?', 'Costs depend on ad spend, competitiveness of keywords and campaign scope. As a Google Ads agency in Mumbai, we recommend a clear media budget plus management—so every campaign has room to learn and scale profitably for businesses worldwide.'],
+                ['How can Local SEO help my business?', 'Local SEO improves visibility in Google Maps and the local pack, helping nearby customers find you. It increases calls, direction requests and walk-ins—especially for clinics, hotels, retail and professional services in Mumbai and beyond.'],
                 ['How do I rank my Google Business Profile?', 'Complete your profile, choose accurate categories, add photos, manage reviews, build citations and align on-page Local SEO. Our Google Business Profile experts refine these signals to improve ranking and engagement.'],
                 ['Can I get a professional website in one day?', 'Yes. Our Website in One Day / get website in one day offering launches a clean, responsive site quickly—ideal when you need a professional presence without a long build cycle.'],
-                ['What industries do you work with?', 'Resorts, hotels, clinics, hospitals, colleges, educational institutes, spa & wellness, healthcare, retail, professional services, SMEs and enterprises.'],
-                ['Do you offer Facebook Ads and Instagram Ads?', 'Yes. We are a Facebook Ads agency and Instagram Ads expert team delivering Meta Ads management for lead generation and brand growth.'],
+                ['What industries do you work with?', 'Resorts, hotels, clinics, hospitals, colleges, educational institutes, spa & wellness, healthcare, retail, professional services, SMEs and enterprises all over the world.'],
+                ['Do you offer Facebook Ads and Instagram Ads?', 'Yes. We are a Facebook Ads agency and Instagram Ads expert team delivering Meta Ads management for lead generation and brand growth globally.'],
                 ['Is TEALSMILE a lead generation company?', 'Yes. We operate as a lead generation company through search ads, Meta Ads, Local SEO and conversion-optimized landing pages—focused on qualified enquiries, not empty traffic.'],
                 ['What makes you a marketing automation company?', 'We connect forms, CRMs, WhatsApp workflows and reporting so leads are captured, routed and followed up automatically—reducing leakage between marketing and sales.'],
-                ['Do you provide SEO services in Mumbai?', 'Yes. As an SEO company in Mumbai we deliver technical SEO, website speed optimization, content and Local SEO for businesses targeting Mumbai, Navi Mumbai, Thane and Palghar.'],
+                ['Do you provide SEO services in Mumbai?', 'Yes. As an SEO company in Mumbai we deliver technical SEO, website speed optimization, content and Local SEO for businesses targeting Mumbai, Navi Mumbai, Thane and Palghar—and clients worldwide.'],
                 ['Can you improve Google Maps ranking for my store or clinic?', 'Absolutely. Through Google Maps SEO, review management, citation consistency and profile optimization, we help you appear in Google Maps and improve local pack visibility.'],
-                ['Do you build CRM and ERP systems?', 'Yes. We offer CRM development, ERP development, API integration services and software integration for teams that need custom operational systems.'],
+                ['Do you build CRM and ERP systems?', 'Yes. We offer CRM development, ERP development, API integration services and software integration for teams that need custom operational systems anywhere in the world.'],
                 ['How do I increase mobile calls from my Google Business Profile?', 'Optimize call buttons, hours, categories, photos and Q&A; encourage reviews; and run Local SEO plus local Google Ads. We focus on actions that increase mobile calls from your Google Business Profile.'],
-                ['Are you a website development company in Mumbai?', 'Yes. We are a website development company in Mumbai and website design company delivering responsive PHP websites, landing pages and speed-optimized builds.'],
+                ['Are you a website development company in Mumbai?', 'Yes. We are a website development company in Mumbai and website design company delivering responsive PHP websites, landing pages and speed-optimized builds for clients all over the world.'],
               ];
               foreach ($faqs as $i => $faq):
                 $collapseId = 'faq' . ($i + 1);
@@ -686,7 +687,7 @@ $year        = date('Y');
         <div class="section-header text-center fade-up">
           <span class="section-label">Contact</span>
           <h2 id="contact-heading">Let's Talk About Growing Your Business</h2>
-          <p class="section-lead">Reach our team in Palghar serving Mumbai, Navi Mumbai, Thane and Maharashtra.</p>
+          <p class="section-lead">Based in Palghar near Mumbai—serving clients across Navi Mumbai, Thane, Maharashtra and all over the world.</p>
         </div>
         <div class="row g-5">
           <div class="col-lg-5 fade-up">
@@ -767,7 +768,7 @@ $year        = date('Y');
         <div class="col-lg-4">
           <img src="assets/images/logo.jpg" alt="TEALSMILE TECHNOLOGIES" width="160" height="42" class="footer-logo" loading="lazy">
           <p class="footer-tagline"><?= htmlspecialchars($tagline) ?></p>
-          <p class="footer-about">Digital marketing agency in Mumbai delivering Google Ads, Meta Ads, SEO, Local SEO, website development and business automation across Maharashtra.</p>
+          <p class="footer-about">Digital marketing agency in Mumbai delivering Google Ads, Meta Ads, SEO, Local SEO, website development and business automation for clients all over the world.</p>
         </div>
         <div class="col-6 col-lg-2">
           <h3>Quick Links</h3>
